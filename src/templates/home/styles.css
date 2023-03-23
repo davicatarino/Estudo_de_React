@@ -1,0 +1,18 @@
+h1 {
+  font-size: 25px;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: #eee;
+  padding: 7px;
+}
+
+
+.button-container{
+  min-height: 60px;
+  display: flex;
+  align-items: flex-end;
+}
